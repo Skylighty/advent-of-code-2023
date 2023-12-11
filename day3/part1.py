@@ -7,7 +7,6 @@ def check_sign(sign):
     else:
         return False
 
-
 def main():
     with open('input.txt', 'r') as input_file:
         lines = input_file.readlines()

@@ -22,7 +22,7 @@ def main():
         sums += multiplied
     print(sums)
 
-# CORRECT - 72422
+# CORRECT
 
 if __name__ == '__main__':
     main()
